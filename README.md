@@ -14,6 +14,12 @@ Zwei Klimasensoren, ein Relais zum Schalten eines amtlichen Lüfters und ein Mik
 
 Hier gibt es den Code zum Projekt im Ordner _src_.
 
+Dieses Projekt erfordert die Installation folgender Bibliotheken über die Bibliotheksverwaltung der Arduino IDE:
+ - [DHT sensor library](https://github.com/adafruit/DHT-sensor-library) von _Adafruit_
+ - [ESP32Time](https://github.com/fbiego/ESP32Time) von _fbiego_
+ - [AsyncTCP](https://github.com/dvarrel/AsyncTCP) von _dvarrel_
+ - [GyverOLED](https://github.com/GyverLibs/GyverOLED) von _AlexGyver_
+
 Der vollständige Artikel zum Projekt steht im **Make-Special ESP32-CAM 2023** ab Seite 50.
 
 Die vorigen Versionen des Projekt gibt es in diesem [GitHub-Repository](https://github.com/MakeMagazinDE/Taupunktluefter).
